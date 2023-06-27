@@ -51,5 +51,7 @@
 	</array>
 	<key>UIViewControllerBasedStatusBarAppearance</key>
 	<false/>
+	<key>NSUserTrackingUsageDescription</key>
+	<string>Our application uses cookies so that we can serve you better and make analyzes.</string>
 </dict>
 </plist>
